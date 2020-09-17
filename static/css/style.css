@@ -1,0 +1,35 @@
+html, body {
+    height: 100%;
+    margin: 0px;
+}
+.header_height{
+    height: 8%;
+}
+.list ul{
+    list-style-type: none;
+}
+.list li{
+    display: inline;
+    margin-left: 2%;
+}
+.text_slide{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 10vw;
+    font-family: cursive;
+}
+.main{
+    position: relative;
+}
+.money{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+.txt{
+    position: relative;
+    left: 25%;
+}
